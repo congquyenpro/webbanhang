@@ -1,14 +1,16 @@
-##Website shop bán nước hoa
-Chức năng:
-    Khách: 
-        Xem sản phẩm
-        Thêm vào giỏ hàng
-        Thanh toán
-    Quản lý:
-        Thêm/Sửa/Xóa Danh mục
-        Quản lý sản phẩm
-        Trang trí website
-        QUản lí đơn hàng
-Front-end: HTML,CSS,JavaScript
+# Website shop bán nước hoa
+Chức năng chính
+Khách:
+Xem chi tiết sản phẩm
+Thêm vào giỏ hàng
+Thanh toán
+
+Quản lý:
+CRUD Sản phẩm, danh mục
+Trang trí website
+Quản lý đơn hàng
+
+Công nghệ sử dụng
+Front-end: HTML,CSS,JS
 Back-end: PHP (Laravel)
 Database: MySQL
